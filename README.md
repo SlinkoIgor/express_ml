@@ -9,6 +9,10 @@ Express course of machine learning
 - Наша группа: https://www.facebook.com/groups/expressml/ - туда я буду выкладывать ВСЁ!
 - И наш чатик в Телеграме: https://t.me/joinchat/AAAAAAuro9V-hE8HsdBtag - тут можно задавать вопросы и вообще
 
+# Как установить Jupyter
+
+[Инструкция по установке Python, Jupyter и библиотек](installation_guide.md)
+
 # Как обновить репозиторий
 
     git stash
