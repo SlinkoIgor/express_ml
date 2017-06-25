@@ -21,6 +21,7 @@ Express course of machine learning
 
 # Соревнования!
 Все соревнования здесь: http://mltrainings.ru
+
 Самая популярная площадка: https://kaggle.com
 
 # Хорошие курсы:
