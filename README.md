@@ -29,3 +29,4 @@ Express course of machine learning
 - "Специализация" от МФТИ: https://www.coursera.org/specializations/machine-learning-data-analysis (бесплатные леции, платные задания)
 - Andrew NG https://www.coursera.org/learn/machine-learning
 - Статейный курс от ODS: https://habrahabr.ru/company/ods/blog/322626/
+- Постоянно обновляемая подборка ресурсов по машинному обучению: https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie
