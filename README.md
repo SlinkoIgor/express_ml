@@ -15,6 +15,7 @@ Express course of machine learning
 # Инструкции
 
 - [Установка Python, Jupyter и библиотек](installation_guide.md)
+- [Работа с Python и Jupyter через Docker](jupyter_docker_guide.md)
 - [Работа с Git](git_guide.md)
 
 # Соревнования!
