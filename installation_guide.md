@@ -5,7 +5,7 @@
 Для этого курса я использую 64-битную c python2.7. Там же есть ссылка на то, как это устанавливать ("See the Quick install page for installation instructions.")
 
 2) В командной строке:
-> conda install jupyter matplotlib seaborn pandas numpy scikit-learn
+> conda install jupyter matplotlib seaborn pandas numpy scikit-learn plotly
 
 3)
 > conda install -c conda-forge xgboost
