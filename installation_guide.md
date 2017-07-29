@@ -97,12 +97,12 @@ Virtualenv позволяет заключить в отдельный ката�
 >`(ml)$ pip install jupyter matplotlib seaborn pandas numpy scikit-learn plotly graphviz pydotplus ipywidgets`<br>
 
 Установку xgboost и catboost можно произвести по инструкциям на соотв. сайтах:
-http://xgboost.readthedocs.io/en/latest/build.html
+http://xgboost.readthedocs.io/en/latest/build.html <br>
 https://tech.yandex.com/catboost/doc/dg/concepts/python-installation-docpage (для 2-го питона pip install сейчас не работает, собирайте из исходников)
 
 Для того, чтобы деактивировать виртуальное окружение, необходимо сказать
 
-> `(yourenv)$ deactivate`<br>
+> `(ml)$ deactivate`<br>
 > `$ python   # префикс пропал, python будет выполняться в системном окружении`
 
 <img src="http://www.linusakesson.net/programming/kernighans-lever/cat.png">
