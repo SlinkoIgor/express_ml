@@ -13,9 +13,11 @@
 
 3) Установка xgboost:
 > conda install -c conda-forge xgboost
+Либо устанавливать из исходников по инструкции: http://xgboost.readthedocs.io/en/latest/build.html
 
 4) Устанока catboost: https://tech.yandex.com/catboost/doc/dg/concepts/python-installation-docpage/
-> pip install catboost                - почему-то ставит для 3-го питона. Если у вас второй, надо собирать из исходников. По ссылке выше есть инструкция
+> pip install catboost
+...почему-то ставит для 3-го питона. Если у вас второй, надо собирать из исходников. По ссылке выше есть инструкция
 
 5) Для обновления анакондовских пакетов, можно запускать
 > conda update --all
