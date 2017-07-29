@@ -6,6 +6,7 @@
 
 2) В командной строке:
 > conda install jupyter matplotlib seaborn pandas numpy scikit-learn plotly graphviz pydotplus ipywidgets
+
 > jupyter nbextension enable --py widgetsnbextension 
 
 2.1) для визуализации дерева нужна библиотека graphviz (мы ее установили выше), но иногда это не работает. В таком случае, можно установить ее отдельно. В Linux это делается через
@@ -16,10 +17,12 @@
 
 Либо устанавливать из исходников по инструкции: http://xgboost.readthedocs.io/en/latest/build.html
 
-4) Устанока catboost: https://tech.yandex.com/catboost/doc/dg/concepts/python-installation-docpage/
+4) Устанока catboost:
 > pip install catboost
 
-...почему-то ставит для 3-го питона. Если у вас второй, надо собирать из исходников. По ссылке выше есть инструкция
+...почему-то ставит для 3-го питона. Если у вас второй, надо собирать из исходников: https://tech.yandex.com/catboost/doc/dg/concepts/python-installation-docpage/
+
+Если ругается, что нет pip - устанавливаем его: https://pip.pypa.io/en/stable/installing/
 
 5) Для обновления анакондовских пакетов, можно запускать
 > conda update --all
