@@ -2,19 +2,22 @@
 
 1) https://conda.io/miniconda
 
-Для этого курса я использую 64-битную c python2.7. Там же есть ссылка на то, как это устанавливать ("See the Quick install page for installation instructions.")
+Для этого курса я использую 64-битную c python2.7. Там же есть ссылка на то, как это устанавливать ("See the Quick install page for installation instructions."). Можно использовать 3-ий питон.
 
 2) В командной строке:
-> conda install jupyter matplotlib seaborn pandas numpy scikit-learn plotly graphviz pydotplus
+> conda install jupyter matplotlib seaborn pandas numpy scikit-learn plotly graphviz pydotplus ipywidgets
+> jupyter nbextension enable --py widgetsnbextension 
 
 2.1) для визуализации дерева нужна библиотека graphviz (мы ее установили выше), но иногда это не работает. В таком случае, можно установить ее отдельно. В Linux это делается через
 > apt-get install graphviz
 
-3)
+3) Установка xgboost:
 > conda install -c conda-forge xgboost
 
+4) Устанока catboost: https://tech.yandex.com/catboost/doc/dg/concepts/python-installation-docpage/
+> pip install catboost                - почему-то ставит для 3-го питона. Если у вас второй, надо собирать из исходников. По ссылке выше есть инструкция
 
-4) Время от времени стоит запускать
+5) Для обновления анакондовских пакетов, можно запускать
 > conda update --all
 
 ### Запуск Jupyter
