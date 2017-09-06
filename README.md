@@ -1,16 +1,14 @@
 # express_ml
 Express course of machine learning
 
-Видеолекции этого курса можно найти по ссылке: https://yadi.sk/d/0KETiWYG3KSDf4
-Предыдущий набор: https://yadi.sk/d/rS6stx5b39Xerd
+Видеозаписи лекций: https://www.youtube.com/watch?v=O1l8O2c2J4Y&list=PLqDzpoDV22ZHfqalgP_rcswttNiV8Aszg
 
-Сервер для первого занятия: http://5.45.192.149/tree
+Решать задания можно с помощью платоформы notebooks.azure.com
 
 # Комьюнити:
 
 - http://ods.ai - главный Slack всех датасаентистов в России. Обсуждение соревнований, теории, практики, встречи, курсы, поиск команды и вакансии
-- Наша группа: https://www.facebook.com/groups/expressml/ - туда я буду выкладывать ВСЁ!
-- И наш чатик в Телеграме: https://t.me/joinchat/AAAAAAuro9V-hE8HsdBtag - тут можно задавать вопросы и вообще
+- Наша группа: https://www.facebook.com/groups/expressml/
 
 # Инструкции
 
