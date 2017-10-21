@@ -7,12 +7,12 @@ jupyter matplotlib seaborn pandas numpy scikit-learn plotly graphviz pydotplus i
 
 1) https://conda.io/miniconda
 
-Для этого курса я использую 64-битную c python2.7. Там же есть ссылка на то, как это устанавливать ("See the Quick install page for installation instructions."). Можно использовать 3-ий питон.
+Для этого курса я использую 64-битную c python3.6. Там же есть ссылка на то, как это устанавливать ("See the Quick install page for installation instructions."). Можно использовать 3-ий питон.
 
 2) В командной строке:
 > conda install jupyter matplotlib seaborn pandas numpy scikit-learn plotly graphviz pydotplus ipywidgets
 
-> jupyter nbextension enable --py widgetsnbextension 
+> jupyter nbextension enable --py widgetsnbextension
 
 2.1) для визуализации дерева нужна библиотека graphviz (мы ее установили выше), но иногда это не работает. В таком случае, можно установить ее отдельно. В Linux это делается через
 > apt-get install graphviz

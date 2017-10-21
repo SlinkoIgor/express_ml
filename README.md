@@ -1,4 +1,7 @@
 # express_ml
+
+http://expressml.ru
+
 Express course of machine learning
 
 Видеозаписи лекций: https://www.youtube.com/watch?v=O1l8O2c2J4Y&list=PLqDzpoDV22ZHfqalgP_rcswttNiV8Aszg
