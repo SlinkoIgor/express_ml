@@ -3,6 +3,9 @@ jupyter matplotlib seaborn pandas numpy scikit-learn plotly graphviz pydotplus i
 
 Кроме того понадобятся xgboost и catboost
 
+# Если у вас Windows:
+Достаточно зайти на https://www.anaconda.com/download/ и скачать клиент Анаконды. Там будет предустановлено большинство пакетов и Jupyter. Недостающие можно будет установить из Navigator (ставится вместе с Анакондой).
+
 # Установка через conda (проще всего):
 
 1) https://conda.io/miniconda
@@ -44,7 +47,7 @@ jupyter matplotlib seaborn pandas numpy scikit-learn plotly graphviz pydotplus i
 
 это специальная команда, которая перехватывает сигнал потери связи SIGHUP. Теперь вы можете закрыть консоль и не беспокоиться, что ноутбук упадет. Правда, убивать ноутбук придется через kill или менеджер задач
 
-# Установка через pip (для Linux и MacOS):
+# Установка через pip:
 
 ## Использование virtualenv
 
