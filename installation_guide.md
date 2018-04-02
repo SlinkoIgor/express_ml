@@ -6,6 +6,7 @@ jupyter matplotlib seaborn pandas numpy scikit-learn plotly graphviz pydotplus i
 # Если у вас Windows:
 Достаточно зайти на https://www.anaconda.com/download/ и скачать клиент Анаконды. Там будет предустановлено большинство пакетов и Jupyter. Недостающие можно будет установить из Navigator (ставится вместе с Анакондой).
 
+# Если у вас не Windows:
 # Установка через conda (проще всего):
 
 1) https://conda.io/miniconda
